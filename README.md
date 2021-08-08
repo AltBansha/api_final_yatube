@@ -27,13 +27,13 @@
 
 ## Установка
 Клонировать репозиторий:
-$ git clone https://github.com/AltBansha/api_final_yatube.git
+> $ git clone https://github.com/AltBansha/api_final_yatube.git
 
-## Создать виртуальное окружение:
-$ python -m venv venv
+Создать виртуальное окружение:
+> $ python -m venv venv
 
-## Установить зависимости:
-$ pip install -r requirements.txt
+Установить зависимости:
+> $ pip install -r requirements.txt
 
-## Сделать миграции
-$ python manage.py makemigrations и $ python manage.py migrate
+Сделать миграции
+> $ python manage.py makemigrations и $ python manage.py migrate
