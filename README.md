@@ -1,4 +1,4 @@
 # Финальный проект - API "YATUBE"
 
 Стек:
-> > Python, Djando, DRF
+> Python, Djando, DRF
